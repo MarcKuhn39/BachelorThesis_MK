@@ -1,0 +1,1 @@
+this directory contains the current version of the Exposé and the Bachelor Thesis
